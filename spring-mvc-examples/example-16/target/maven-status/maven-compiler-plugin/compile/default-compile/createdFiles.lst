@@ -1,0 +1,4 @@
+com\luxoft\spring\mvc\example16\domain\User.class
+com\luxoft\spring\mvc\example16\controller\PagesController.class
+com\luxoft\spring\mvc\example16\Example16Application.class
+com\luxoft\spring\mvc\example16\domain\UsersRepository.class

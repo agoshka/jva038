@@ -1,0 +1,4 @@
+com\luxoft\spring\mvc\example06\controller\OrdersController.class
+com\luxoft\spring\mvc\example06\Example06Application.class
+com\luxoft\spring\mvc\example06\domain\Order.class
+com\luxoft\spring\mvc\example06\domain\OrdersRepository.class
